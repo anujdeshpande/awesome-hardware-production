@@ -8,9 +8,13 @@ List of awesome resources on the interwebs for going to production with a hardwa
 - Bolt VC [blog](https://blog.bolt.io)
 - Boldport went on a twitter rant one fine day and posted all the differences between prototyping and production [easily readable version](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768)
 
-## Books
-- [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) by Bunnie
+## Device firmware
 - [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-ebook/dp/B005ZTO0LG) by Elecia White
+
+## Shenzhen
+- [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) by Bunnie
+
+
 
 ## Tools
 
@@ -25,14 +29,17 @@ List of awesome resources on the interwebs for going to production with a hardwa
 - Dragon Innovation's [Design for Manufacturing Course](https://www.youtube.com/watch?v=84VxN9K_PMM&list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a)
 
 ## Teardowns
-Learn from what other people build
+Learn from what other people have built.
 
 |Name|Link|
 |:--:|:--:|
-| iFixit|[Link](https://www.ifixit.com/Teardown)|
-|Fictiv Blog|[Link](https://www.fictiv.com/blog/topics/teardowns)|
+|iFixit|[Link](https://www.ifixit.com/Teardown)|
+|Fictiv|[Link](https://www.fictiv.com/blog/topics/teardowns)|
 |Dave Jones aka EEVBlog|[Link](https://www.eevblog.com/teardowns/)|
 
 
-## Lists
-- List of [Indian ecommerce stores](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) for procuring components 
+## Procurement
+
+|Name|Link|
+|:--:|:--:|
+|List of Indian ecommerce stores for procuring components |[Link](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) 
