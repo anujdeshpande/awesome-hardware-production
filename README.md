@@ -10,6 +10,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 ## Books
 - [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) by Bunnie
+- [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-ebook/dp/B005ZTO0LG) by Elecia White
 
 ## Tools
 
