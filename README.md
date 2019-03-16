@@ -1,11 +1,11 @@
-# awesome-hardware-production
-List of awesome resources for going to production with a hardware product
+# Awesome Hardware Production
+List of awesome resources on the interwebs for going to production with a hardware product.
 
 
 ## Blogs and other written words
 - Bunnie Huang's [blog](https://www.bunniestudios.com)
 - [The Crowd Supply Guide](https://www.crowdsupply.com/guide)
-- [Bolt VC Blog](https://blog.bolt.io)
+- Bolt VC [blog](https://blog.bolt.io)
 
 ## Books
 - [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) by Bunnie
