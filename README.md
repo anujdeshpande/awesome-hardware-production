@@ -13,8 +13,10 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 ## Tools
 
-- Dragon Innovation's [BOM Tool](https://www.dragoninnovation.com/dragon-standard-bom)
-- ESP Jumpstart [Software guide and code for writing production grade code](https://docs.espressif.com/projects/esp-jumpstart/en/latest/introduction.html)
+|Author/Company|Name|Description|Link|
+|:--:|:--:|:--:|:--:|
+| Dragon Innovation | BOM Tool|It’s a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence.| [Link](https://www.dragoninnovation.com/dragon-standard-bom)|
+|Espressif Systems | ESP Jumpstart  |Software guide and code for writing production grade code|[Link](https://docs.espressif.com/projects/esp-jumpstart/en/latest/introduction.html)
 
 ## Videos
 
