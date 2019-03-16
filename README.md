@@ -27,8 +27,11 @@ List of awesome resources on the interwebs for going to production with a hardwa
 ## Teardowns
 Learn from what other people build
 
-- [iFixit Teardowns](https://www.ifixit.com/Teardown)
-- [Fictiv Blog](https://www.fictiv.com/blog/topics/teardowns)
+|Name|Link|
+|:--:|:--:|
+| iFixit|[Link](https://www.ifixit.com/Teardown)|
+|Fictiv Blog|[Link](https://www.fictiv.com/blog/topics/teardowns)|
+|Dave Jones aka EEVBlog|[Link](https://www.eevblog.com/teardowns/)|
 
 
 ## Lists
