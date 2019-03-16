@@ -6,6 +6,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 - Bunnie Huang's [blog](https://www.bunniestudios.com)
 - [The Crowd Supply Guide](https://www.crowdsupply.com/guide)
 - Bolt VC [blog](https://blog.bolt.io)
+- Boldport went on a twitter rant one fine day and posted all the differences between prototyping and production [easily readable version](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768)
 
 ## Books
 - [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) by Bunnie
@@ -23,4 +24,7 @@ Learn from what other people build
 
 - [iFixit Teardowns](https://www.ifixit.com/Teardown)
 - [Fictiv Blog](https://www.fictiv.com/blog/topics/teardowns)
-- 
+
+
+## Lists
+- List of [Indian ecommerce stores](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) for procuring components 
