@@ -17,6 +17,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 |:--:|:--:|:--:|:--:|
 | Dragon Innovation | BOM Tool|It’s a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence.| [Link](https://www.dragoninnovation.com/dragon-standard-bom)|
 |Espressif Systems | ESP Jumpstart  |Software guide and code for writing production grade code|[Link](https://docs.espressif.com/projects/esp-jumpstart/en/latest/introduction.html)
+|Xobs|Exclave|Exclave is a factory test infrastructure, written in Rust.. A good [blog](https://www.bunniestudios.com/blog/?p=5450) explaining the project and it's motivations.|[Link](https://github.com/exclave/exclave)
 
 ## Videos
 
