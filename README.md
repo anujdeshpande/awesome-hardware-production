@@ -18,7 +18,6 @@
 
 List of awesome resources on the interwebs for going to production with a hardware product.
 
-1. Blogs, RSS feeds, and one-off articles
 
 ## Blogs, RSS feeds, and one-off articles
 
@@ -34,7 +33,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 |Author/Company|Name|Description|Link|
 |:--:|:--:|:--:|:--:|
 | Dragon Innovation | BOM Tool|It’s a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence.| [dragoninnovation.com](https://www.dragoninnovation.com/dragon-standard-bom)|
-|Anuj Deshpande & Kewal Shah|List of Indian ecommerce stores for procuring components ||[gist](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) 
+|Anuj Deshpande & Kewal Shah|List of Indian ecommerce stores for procuring components ||[gist](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca)
 
 ## Design for manufacturing
 
