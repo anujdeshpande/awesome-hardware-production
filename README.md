@@ -29,6 +29,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 - [Dragon Innovation](https://www.dragoninnovation.com/dragon-standard-bom) - a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence
 - [List of Indian ecommerce stores for procuring components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca)
+- [bunnie huang on the Indispensability of Good Documentation](https://www.youtube.com/watch?v=aV_a5KIogCc)
 
 ## Design for Manufacturing
 
