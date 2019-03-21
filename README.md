@@ -1,3 +1,7 @@
+# Awesome Hardware Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+List of awesome resources on the interwebs for going to production with a hardware product.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  
@@ -14,65 +18,45 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Awesome Hardware Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-List of awesome resources on the interwebs for going to production with a hardware product.
-
-
 ## Blogs, RSS feeds, and one-off articles
 
-|Author/Company|Description|Link|
-|:--:|:--:|:--:|
-|Bunnie Huang| |[blog](https://www.bunniestudios.com)<br/>[rss](https://www.bunniestudios.com/blog/?feed=rss2)|
-|The Crowd Supply Guide||[crowdsupply.com](https://www.crowdsupply.com/guide)|
-|Bolt VC|| [blog](https://blog.bolt.io)|
-|Prototyping vs Production|Boldport went on a twitter rant one fine day and posted a comprehensive list of the differences between prototyping and production |[easily readable version](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768)  <br/>[original twitter link](https://twitter.com/boldport/status/727162444724985857)|
+- [Bunnie Huang](https://www.bunniestudios.com)
+- [The Crowd Supply Guide](https://www.crowdsupply.com/guide)
+- [Bolt VC](https://blog.bolt.io)
+- [Prototyping vs Production](https://twitter.com/boldport/status/727162444724985857)
+- [Comprehensive list of difference between prototyping and production](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768)
 
-## Components and procurement
+## Components and Procurement
 
-|Author/Company|Name|Description|Link|
-|:--:|:--:|:--:|:--:|
-| Dragon Innovation | BOM Tool|It’s a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence.| [dragoninnovation.com](https://www.dragoninnovation.com/dragon-standard-bom)|
-|Anuj Deshpande & Kewal Shah|List of Indian ecommerce stores for procuring components ||[gist](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca)
+- [Dragon Innovation](https://www.dragoninnovation.com/dragon-standard-bom) - a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence
+- [List of Indian ecommerce stores for procuring components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca)
 
-## Design for manufacturing
+## Design for Manufacturing
 
-|Author/Company|Name|Description|Link|
-|:--:|:--:|:--:|:--:|
-|Dragon Innovation| Design for Manufacturing Course||[YouTube](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a)|
-|Sean Cross (xobs)|Plastic is Forever: Designing Tomu's Injection-Molded Case||[YouTube](https://www.youtube.com/watch?v=Br5Ieo8USIw)|
+- [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a)
+- [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw)
 
-## Device firmware
+## Device Firmware
 
-|Author/Company|Name|Description|Link|
-|:--:|:--:|:--:|:--:|
-|Elecia White|Making Embedded Systems: Design Patterns for Great Software||[Amazon.com](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-ebook/dp/B005ZTO0LG)|
-|Espressif Systems | ESP Jumpstart  |Software guide for writing production grade code on ESP32 and ESP8266|[docs.espressif.com](https://docs.espressif.com/projects/esp-jumpstart/en/latest/introduction.html)
+- [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-ebook/dp/B005ZTO0LG)
+- [ESP Jumpstart](https://docs.espressif.com/projects/esp-jumpstart/en/latest/introduction.html) - Software guide for writing production grade code on ESP32 and ESP8266
 
 ## Shenzhen
 
-|Author/Company|Name|Description|Link|
-|:--:|:--:|:--:|:--:|
-|Bunnie Huang|The Essential Guide to Electronics in Shenzhen||[crowdsupply.com](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen)
-
+- [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen)
 
 ## Teardowns
+
 Learn from what other people have built.
 
-|Name|Link|
-|:--:|:--:|
-|iFixit|[Link](https://www.ifixit.com/Teardown)|
-|Fictiv|[Link](https://www.fictiv.com/blog/topics/teardowns)|
-|Dave Jones aka EEVBlog|[Link](https://www.eevblog.com/teardowns/)|
-
+- [iFixit](https://www.ifixit.com/Teardown)
+- [Fictiv](https://www.fictiv.com/blog/topics/teardowns)
+- [Dave Jones aka EEVBlog](https://www.eevblog.com/teardowns/)
 
 ## Testing and QA
-|Author/Company|Name|Description|Link|
-|:--:|:--:|:--:|:--:|
-|Sean Cross (xobs)|Exclave|Exclave is a factory test infrastructure, written in Rust.. A good [blog](https://www.bunniestudios.com/blog/?p=5450) explaining the project and it's motivations.|[GitHub](https://github.com/exclave/exclave)
 
-
-
+- [Exclave](https://github.com/exclave/exclave) - A factory test infrastructure, written in Rust
+- [Exclave motivations](https://www.bunniestudios.com/blog/?p=5450)
 
 # License
 
