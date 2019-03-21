@@ -6,14 +6,13 @@ List of awesome resources on the interwebs for going to production with a hardwa
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  
 
-- [Awesome Hardware Production](#awesome-hardware-production-)
-  - [Blogs, RSS feeds, and one-off articles](#blogs-rss-feeds-and-one-off-articles)
-  - [Components and procurement](#components-and-procurement)
-  - [Design for manufacturing](#design-for-manufacturing)
-  - [Device firmware](#device-firmware)
-  - [Shenzhen](#shenzhen)
-  - [Teardowns](#teardowns)
-  - [Testing and QA](#testing-and-qa)
+- [Blogs, RSS feeds, and one-off articles](#blogs-rss-feeds-and-one-off-articles)
+- [Components and Procurement](#components-and-procurement)
+- [Design for Manufacturing](#design-for-manufacturing)
+- [Device Firmware](#device-firmware)
+- [Shenzhen](#shenzhen)
+- [Teardowns](#teardowns)
+- [Testing and QA](#testing-and-qa)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -58,6 +57,6 @@ Learn from what other people have built.
 - [Exclave](https://github.com/exclave/exclave) - A factory test infrastructure, written in Rust
 - [Exclave motivations](https://www.bunniestudios.com/blog/?p=5450)
 
-# License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
