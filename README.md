@@ -36,7 +36,6 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 - [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) -
 Dragon Innovation online course on Design for Manufacturing.
-
 - [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw) - A talk about various things involved in injection moulding cases for electronics.
 
 ## Device Firmware
