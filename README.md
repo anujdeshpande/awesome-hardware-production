@@ -30,10 +30,11 @@ List of awesome resources on the interwebs for going to production with a hardwa
 - [Dragon Innovation](https://www.dragoninnovation.com/dragon-standard-bom) - a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence.
 - [Indian ecommerce stores for components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) - List of Indian ecommerce stores for procuring components.
 - [bunnie huang on the Indispensability of Good Documentation](https://www.youtube.com/watch?v=aV_a5KIogCc) - Bunnie's talk on good documentation (Schematics, BOM) for electronics manufacturing.
+- [IC Package types](https://eesemi.com/ic-package-types.htm)
 
 ## Design for Manufacturing
 
-- [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) - 
+- [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) -
 Dragon Innovation online course on Design for Manufacturing.
 
 - [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw) - A talk about various things involved in injection moulding cases for electronics.
