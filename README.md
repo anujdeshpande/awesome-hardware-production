@@ -13,6 +13,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 - [Shenzhen](#shenzhen)
 - [Teardowns](#teardowns)
 - [Testing and QA](#testing-and-qa)
+- [Standards and Compliances](#standards-and-compliances)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -33,7 +34,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 ## Design for Manufacturing
 
-- [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) - 
+- [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) -
 Dragon Innovation online course on Design for Manufacturing.
 
 - [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw) - A talk about various things involved in injection moulding cases for electronics.
@@ -59,6 +60,10 @@ Learn from what other people have built.
 
 - [Exclave](https://github.com/exclave/exclave) - A factory test infrastructure, written in Rust.
 - [Exclave motivations](https://www.bunniestudios.com/blog/?p=5450) - Blog post describing the throught processing behind making a framework for factory test infrastructure.
+
+## Standards and Compliances
+
+- [Norms to design PCB](https://www.aldelta.com.co/blog-diseno-con-normas-y-certificaciones/normas-pcb-y-electronica/) - A list of industry standards for PCB
 
 ## License
 
