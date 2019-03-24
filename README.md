@@ -20,24 +20,24 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 ## Blogs, RSS feeds, and one-off articles
 
-- [Bunnie Huang](https://www.bunniestudios.com) - Great articles from one of the most awesome person who shares a lot about electronics manufacturing.
-- [The Crowd Supply Guide](https://www.crowdsupply.com/guide) - A guide to bringing a product from the spark of an idea to shipping orders using crowdfunding.
-- [Bolt VC](https://blog.bolt.io) - Great blog about hardware products and engineering.
-- [Prototyping vs Production](https://twitter.com/boldport/status/727162444724985857) - Series of tweets describing the difference between hardware Prototyping and Production.
-- [Comprehensive list of difference between prototyping and production](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768) - A gist of the series of tweets from boldport on Prototyping vs Production.
+- [Bunnie Huang](https://www.bunniestudios.com) - Blog posts on electronics and hardware.
+- [The Crowd Supply Guide](https://www.crowdsupply.com/guide) - Guidelines on bringing a product from idea to shipping orders using crowdfunding.
+- [Bolt VC](https://blog.bolt.io) - Blog about hardware products and engineering.
+- [Prototyping vs Production](https://twitter.com/boldport/status/727162444724985857) - Series of tweets describing the difference between hardware prototyping and production.
+- [Comprehensive list of difference between prototyping and production](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768) - Gist of the series of tweets from boldport on prototyping vs production.
 
 ## Components and Procurement
 
-- [Dragon Innovation](https://www.dragoninnovation.com/dragon-standard-bom) - a Google Sheets template on steroids, providing a proven, pro-grade BOM format that companies can use with confidence.
-- [Indian ecommerce stores for components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) - List of Indian ecommerce stores for procuring components.
-- [bunnie huang on the Indispensability of Good Documentation](https://www.youtube.com/watch?v=aV_a5KIogCc) - Bunnie's talk on good documentation (Schematics, BOM) for electronics manufacturing.
+- [Dragon Innovation](https://www.dragoninnovation.com/dragon-standard-bom) - Google Sheets template on BOM format.
+- [Indian ecommerce stores for components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) - List of Indian e-commerce stores for procuring components.
+- [Indispensability of Good Documentation](https://www.youtube.com/watch?v=aV_a5KIogCc) - Talk about schematics and BOM for electronics manufacturing.
 - [IC Package types](https://eesemi.com/ic-package-types.htm) -  Comprehensive list of all types of packages.
 
 ## Design for Manufacturing
 
 - [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) -
-Dragon Innovation online course on Design for Manufacturing.
-- [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw) - A talk about various things involved in injection moulding cases for electronics.
+Online course on Design for Manufacturing.
+- [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw) - Talk about things involved in injection moulding cases for electronics.
 
 ## Device Firmware
 
@@ -46,7 +46,7 @@ Dragon Innovation online course on Design for Manufacturing.
 
 ## Shenzhen
 
-- [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) - A physical (dead-tree version) guide to electronics in Shenzhen.
+- [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) - Book on electronics in Shenzhen.
 
 ## Teardowns
 
