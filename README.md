@@ -63,7 +63,7 @@ Learn from what other people have built.
 
 ## Standards and Compliances
 
-- [Norms to design PCB](https://www.aldelta.com.co/blog-diseno-con-normas-y-certificaciones/normas-pcb-y-electronica/) - A list of industry standards for PCB
+- [Norms to design PCB](https://www.aldelta.com.co/blog-diseno-con-normas-y-certificaciones/normas-pcb-y-electronica/) - List of industry standards for PCB.
 
 ## License
 
