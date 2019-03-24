@@ -20,18 +20,18 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 ## Blogs, RSS feeds, and one-off articles
 
-- [Bunnie Huang](https://www.bunniestudios.com) - Blog posts on electronics and hardware.
-- [The Crowd Supply Guide](https://www.crowdsupply.com/guide) - Guidelines on bringing a product from idea to shipping orders using crowdfunding.
 - [Bolt VC](https://blog.bolt.io) - Blog about hardware products and engineering.
+- [Bunnie Huang](https://www.bunniestudios.com) - Blog posts on electronics and hardware.
+- [Crowd Supply Guide](https://www.crowdsupply.com/guide) - Guidelines on bringing a product from idea to shipping orders using crowdfunding.
+- [List of difference between prototyping and production](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768) - Gist of the series of tweets from boldport on prototyping vs production.
 - [Prototyping vs Production](https://twitter.com/boldport/status/727162444724985857) - Series of tweets describing the difference between hardware prototyping and production.
-- [Comprehensive list of difference between prototyping and production](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768) - Gist of the series of tweets from boldport on prototyping vs production.
 
 ## Components and Procurement
 
 - [Dragon Innovation](https://www.dragoninnovation.com/dragon-standard-bom) - Google Sheets template on BOM format.
-- [Indian ecommerce stores for components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) - List of Indian e-commerce stores for procuring components.
-- [Indispensability of Good Documentation](https://www.youtube.com/watch?v=aV_a5KIogCc) - Talk about schematics and BOM for electronics manufacturing.
 - [IC Package types](https://eesemi.com/ic-package-types.htm) -  Comprehensive list of all types of packages.
+- [Indian e-commerce stores for components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) - List of Indian e-commerce stores for procuring components.
+- [Indispensability of Good Documentation](https://www.youtube.com/watch?v=aV_a5KIogCc) - Talk about schematics and BOM for electronics manufacturing.
 
 ## Design for Manufacturing
 
@@ -41,8 +41,8 @@ Online course on Design for Manufacturing.
 
 ## Device Firmware
 
-- [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-ebook/dp/B005ZTO0LG) - Book on Design Patterns for Embedded Software Development.
 - [ESP Jumpstart](https://docs.espressif.com/projects/esp-jumpstart/en/latest/introduction.html) - Software guide for writing production grade code on ESP32 and ESP8266.
+- [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-ebook/dp/B005ZTO0LG) - Book on Design Patterns for Embedded Software Development.
 
 ## Shenzhen
 
@@ -52,9 +52,9 @@ Online course on Design for Manufacturing.
 
 Learn from what other people have built.
 
-- [iFixit](https://www.ifixit.com/Teardown)
-- [Fictiv](https://www.fictiv.com/blog/topics/teardowns)
 - [Dave Jones aka EEVBlog](https://www.eevblog.com/teardowns/)
+- [Fictiv](https://www.fictiv.com/blog/topics/teardowns)
+- [iFixit](https://www.ifixit.com/Teardown)
 
 ## Testing and QA
 
