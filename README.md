@@ -63,6 +63,7 @@ Learn from what other people have built.
 
 ## Standards and Compliances
 
+- [Better IoT](http://betteriot.org) - A community-led effort to make a free, accessible, open assessment tool to help  design better connected products.
 - [Norms to design PCB](https://www.aldelta.com.co/blog-diseno-con-normas-y-certificaciones/normas-pcb-y-electronica/) - List of industry standards for PCB.
 
 ## License
