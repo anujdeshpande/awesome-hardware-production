@@ -46,8 +46,8 @@ Online course on Design for Manufacturing.
 
 ## Shenzhen
 
-- [Strangeparts](https://strangeparts.com) - Videos about building things in Shenzhen, factory tours, and more
-- [The Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) - Book on electronics in Shenzhen.
+- [Strangeparts](https://strangeparts.com) - Videos about building things in Shenzhen, factory tours, and more.
+- [Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) - Book on electronics in Shenzhen.
 
 ## Teardowns
 
