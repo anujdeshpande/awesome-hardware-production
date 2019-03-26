@@ -25,6 +25,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 - [Crowd Supply Guide](https://www.crowdsupply.com/guide) - Guidelines on bringing a product from idea to shipping orders using crowdfunding.
 - [List of difference between prototyping and production](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768) - Gist of the series of tweets from boldport on prototyping vs production.
 - [Prototyping vs Production](https://twitter.com/boldport/status/727162444724985857) - Series of tweets describing the difference between hardware prototyping and production.
+- [The Prepared](https://theprepared.org/features) - Weekly newsletter, and not-so-regular podcasts about manufacturing.
 
 ## Components and Procurement
 
