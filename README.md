@@ -18,9 +18,7 @@ List of awesome resources on the interwebs for going to production with a hardwa
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## General
-
-Blogs, RSS feeds, and one-off articles
+## Blogs, RSS feeds, and one-off articles
 
 - [Bolt VC](https://blog.bolt.io) - Blog about hardware products and engineering.
 - [Bunnie Huang](https://www.bunniestudios.com) - Blog posts on electronics and hardware.
