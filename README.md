@@ -46,6 +46,7 @@ Online course on Design for Manufacturing.
 
 - [ESP Jumpstart](https://docs.espressif.com/projects/esp-jumpstart/en/latest/introduction.html) - Software guide for writing production grade code on ESP32 and ESP8266.
 - [Making Embedded Systems: Design Patterns for Great Software](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software-ebook/dp/B005ZTO0LG) - Book on Design Patterns for Embedded Software Development.
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - Provides a high-level overview of hardening GNU/Linux systems.
 
 ## Shenzhen
 
