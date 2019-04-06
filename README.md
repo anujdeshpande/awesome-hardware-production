@@ -32,9 +32,14 @@ Blogs, RSS feeds, and one-off articles
 ## Components and Procurement
 
 - [Dragon Innovation](https://www.dragoninnovation.com/dragon-standard-bom) - Google Sheets template on BOM format.
+- [Element14](https://element14.com) - Distributor for electronic system design, maintenance and repair by Premier Farnell.
+- [Digi-Key Electronics](https://www.digikey.com/) - Electronic component distributor and a broad-line distributor of board level components.
 - [IC Package types](https://eesemi.com/ic-package-types.htm) -  Comprehensive list of all types of packages.
 - [Indian e-commerce stores for components](https://gist.github.com/anujdeshpande/5e9475a0c4cefebe1c5288576171a6ca) - List of Indian e-commerce stores for procuring components.
 - [Indispensability of Good Documentation](https://www.youtube.com/watch?v=aV_a5KIogCc) - Talk about schematics and BOM for electronics manufacturing.
+- [Misumi](https://www.misumi-ec.com) - Provider of fixed and configurable components for the manufacturing industry.
+- [Mouser](https://www.mouser.com/) - Online distributor of electronic components .
+- [RS Components](http://www.rs-online.com/) - Distributor of electronics and maintenance products.
 
 ## Design for Manufacturing
 
