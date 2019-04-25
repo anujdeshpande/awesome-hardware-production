@@ -25,6 +25,7 @@ Blogs, RSS feeds, and one-off articles
 - [Bolt VC](https://blog.bolt.io) - Blog about hardware products and engineering.
 - [Bunnie Huang](https://www.bunniestudios.com) - Blog posts on electronics and hardware.
 - [Crowd Supply Guide](https://www.crowdsupply.com/guide) - Guidelines on bringing a product from idea to shipping orders using crowdfunding.
+- [Talk - How to Bring Your Project from Idea to Reality](https://www.youtube.com/watch?v=bh4mrjsIwoo) - Mitch Altman's talk from The Next HOPE(2010). Alternate [video link](https://www.youtube.com/watch?v=Ynhm-4XMusE) from BruCon (2010).
 - [List of difference between prototyping and production](https://gist.github.com/anujdeshpande/8e8d533d6bc16ab40667c85aff171768) - Gist of the series of tweets from boldport on prototyping vs production.
 - [Prototyping vs Production](https://twitter.com/boldport/status/727162444724985857) - Series of tweets describing the difference between hardware prototyping and production.
 - [The Prepared](https://theprepared.org/features) - Weekly newsletter, and not-so-regular podcasts about manufacturing.
