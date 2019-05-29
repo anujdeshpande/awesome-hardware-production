@@ -41,6 +41,7 @@ Blogs, RSS feeds, and one-off articles
 - [11 DIY PCB DFM checks anyone can do](https://www.seeedstudio.com/blog/2019/04/05/11-do-it-yourself-pcb-design-for-manufacture-checks-anyone-can-do/) - Blog post from Seeed Studio.
 - [Design for Manufacturing Course](https://www.youtube.com/playlist?list=PLNTXUUIxHyNwrlAh2ZkaMTSBrgk86wC-a) -
 Online course on Design for Manufacturing.
+- [Fictiv's Injection Molding Video Series](https://www.youtube.com/playlist?list=PL6ocPzovL66GD4CJSIgXVFioP4xqDQj1J) - 4-part educational video series
 - [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw) - Talk about things involved in injection moulding cases for electronics.
 
 ## Device Firmware
