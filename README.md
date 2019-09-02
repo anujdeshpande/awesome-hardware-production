@@ -76,6 +76,7 @@ Learn from what other people have built.
 
 ## Testing and QA
 
+- [Etcher and Etcher Pro](https://www.balena.io/etcher/pro/) - Software and hardware to simultaneously flash images to multiple devices.
 - [Exclave](https://github.com/exclave/exclave) - A factory test infrastructure, written in Rust.
 - [Exclave motivations](https://www.bunniestudios.com/blog/?p=5450) - Blog post describing the throught processing behind making a framework for factory test infrastructure.
 
