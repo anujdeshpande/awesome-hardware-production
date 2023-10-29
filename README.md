@@ -43,6 +43,7 @@ Blogs, RSS feeds, and one-off articles
 Online course on Design for Manufacturing.
 - [Fictiv's Injection Molding Video Series](https://www.youtube.com/playlist?list=PL6ocPzovL66GD4CJSIgXVFioP4xqDQj1J) - 4-part educational video series
 - [Plastic is Forever: Designing Tomu's Injection-Molded Case](https://www.youtube.com/watch?v=Br5Ieo8USIw) - Talk about things involved in injection moulding cases for electronics.
+- [DFM for Injection Molding : Star Rapid](https://www.starrapid.com/blog/dfm-improve-plastic-injection-molding/)
 
 ## Device Firmware
 
