@@ -68,6 +68,8 @@ E-Commerce websites for buying components.
 - [Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) - Book on electronics in Shenzhen.
 - [Strangeparts](https://strangeparts.com) - Videos about building things in Shenzhen, factory tours, and more.
 
+* [AllwinKey](https://allwinkey.com) — Keyboard & keycap OEM/ODM manufacturer. PBT doubleshot, dye-sub, CNC cases.
+* [Allwin Factory](https://allwinfactory.com) — Custom keyboard/keycap factory, 600+ products, ceramic keycaps.
 ## Teardowns
 
 Learn from what other people have built.
