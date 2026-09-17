@@ -62,6 +62,7 @@ E-Commerce websites for buying components.
 - [Misumi](https://www.misumi-ec.com) - Provider of fixed and configurable components for the manufacturing industry.
 - [Mouser](https://www.mouser.com/) - Online distributor of electronic components .
 - [RS Components](http://www.rs-online.com/) - Distributor of electronics and maintenance products.
+- [ICBOMS](https://icboms.com/) - Independent electronic components distributor and BOM line-matching platform with Shenzhen supply chain and worldwide DDP delivery.
 
 ## Shenzhen
 
