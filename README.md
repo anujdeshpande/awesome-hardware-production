@@ -67,6 +67,7 @@ E-Commerce websites for buying components.
 ## Shenzhen
 
 - [Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) - Book on electronics in Shenzhen.
+- [Hardware prototype costs from Shenzhen builds](https://block-less.com/hardware-prototype-cost) - Development fees and per-unit prices from three delivered small-batch builds, with the [data as CSV/JSON](https://github.com/ChrisWu132/hardware-prototype-costs).
 - [Strangeparts](https://strangeparts.com) - Videos about building things in Shenzhen, factory tours, and more.
 
 ## Teardowns
