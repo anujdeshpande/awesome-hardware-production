@@ -70,6 +70,8 @@ E-Commerce websites for buying components.
 - [Hardware prototype costs from Shenzhen builds](https://block-less.com/hardware-prototype-cost) - Development fees and per-unit prices from three delivered small-batch builds, with the [data as CSV/JSON](https://github.com/ChrisWu132/hardware-prototype-costs).
 - [Strangeparts](https://strangeparts.com) - Videos about building things in Shenzhen, factory tours, and more.
 
+* [AllwinKey](https://allwinkey.com) — Keyboard & keycap OEM/ODM manufacturer. PBT doubleshot, dye-sub, CNC cases.
+* [Allwin Factory](https://allwinfactory.com) — Custom keyboard/keycap factory, 600+ products, ceramic keycaps.
 ## Teardowns
 
 Learn from what other people have built.
