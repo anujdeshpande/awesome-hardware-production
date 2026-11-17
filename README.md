@@ -68,6 +68,7 @@ E-Commerce websites for buying components.
 
 - [Essential Guide to Electronics in Shenzhen](https://www.crowdsupply.com/sutajio-kosagi/the-essential-guide-to-electronics-in-shenzhen) - Book on electronics in Shenzhen.
 - [Hardware prototype costs from Shenzhen builds](https://block-less.com/hardware-prototype-cost) - Development fees and per-unit prices from three delivered small-batch builds, with the [data as CSV/JSON](https://github.com/ChrisWu132/hardware-prototype-costs).
+- [PlushSource](https://plushsource.com/) - Independent directory of 55 custom plush (stuffed toy) manufacturers, 20 of them in China, with MOQ, lead times, OEM/ODM services and claimed certifications compiled from each maker's own website.
 - [Strangeparts](https://strangeparts.com) - Videos about building things in Shenzhen, factory tours, and more.
 
 ## Teardowns
